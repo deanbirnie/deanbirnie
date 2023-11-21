@@ -7,8 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/DeanBirnie_tech?logoColor=white)
 
 ##  &#x1F4D6; About Me
-I am a software engineer working to expand my skillset and develop useful applications tha add value to peoples lives. I am a HomeLab enthusiast, hosting various services on my servers at home.
-
+I am a software engineer working to expand my skillset and develop useful applications that add value to peoples lives. I am also a HomeLab enthusiast, hosting various services on my servers at home.
 
 ## &#x1f4c8; My GitHub Stats
 
