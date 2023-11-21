@@ -7,7 +7,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/DeanBirnie_tech?logoColor=white)
 
 ##  &#x1F4D6; About Me
-I am an aspiring software developer. I took an opportunity to follow my passion and have commited to the [ALX Software Engineering](https://https://www.alxafrica.com/software-engineering/) course for 2023. I aim to increase my skillset throughout the year, adding not only new languages and tools to my repertoire but also focussing on improving efficiency and industry-related soft skills.
+I am a software engineer working to expand my skillset and develop useful applications tha add value to peoples lives. I am a HomeLab enthusiast, hosting various services on my servers at home.
 
 
 ## &#x1f4c8; My GitHub Stats
